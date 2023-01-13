@@ -14,7 +14,7 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="300dp" />
+        android:layout_height="400dp" />
 
     <TextView
         android:id="@+id/textView"
@@ -38,6 +38,7 @@
         <Button
             android:layout_width="100dp"
             android:layout_height="wrap_content"
+            android:textStyle="bold"
             android:text="再生/停止"
             android:id="@+id/start_button"/>
 
